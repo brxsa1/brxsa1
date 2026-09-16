@@ -1,16 +1,22 @@
-## Hi there 👋
+## Apresentação 
+- Estudando de Analise e Desenvolvimento de Sistemas
+- Buscando atuar como estagiario em Cibersegurança
+- Atualmente aprofundando meus conhecimentos em HTML e inglês.
 
-<!--
-**brxsa1/brxsa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias e ferramentas
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 
-Here are some ideas to get you started:
+## Meu Roadmap (próximos 6 meses)
+- [ ] eJPT
+- [ ] Linux, redes HTTP, Python básico e fundamentos de segurança.
+- [ ] OSCP+
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em Destaque
+| Projeto | Descrição | Tecnologia |
+| --- | --- | --- |
+| [Nome do Projeto](link) | Breve descrição do que o sistema faz. | Linguagem ou framework utilizado|
+| [Em breve](link) | Em breve meu primeiro projeto | Linguagem ou framework utilizado |
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/daniel-blesa-310219252/)
+- danielblesa2@gmail.com
